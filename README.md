@@ -18,7 +18,6 @@
         * [SHOPManager.cs](./code/Shop/SHOPManager.cs)
    * [Skill](./code/Skill)
      * [TileEffect.cs](./code/Skill/TileEffect.cs)
-  * [README.md](./README.md)
 
 ## **프로젝트 기간**
 
