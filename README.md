@@ -5,7 +5,7 @@
    * [Deck](./code/Deck)
      * [UserDeckManager.cs](./code/Deck/UserDeckManager.cs)
    * [Lobby](./code/Lobby)
-     * [file11.ext](./code/Lobby/StartMenuManager.cs)
+     * [StartMenuManager.cs](./code/Lobby/StartMenuManager.cs)
    * [Lodding](./code/Lodding)
         * [BackgroundMusicManager.cs](./code/Lodding/BackgroundMusicManager.cs)
         * [Login.cs](./code/Lodding/Login.cs)
