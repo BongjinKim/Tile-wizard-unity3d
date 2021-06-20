@@ -35,8 +35,6 @@ UI 개발, 스킬 제작
 
 ### 대기화면 제작
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/677c0e36-4764-4ab3-acaf-1cadc5da0f80/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/677c0e36-4764-4ab3-acaf-1cadc5da0f80/Untitled.png)
-
 - BackgroundMusicManager : Class - 모든 배경음악을 관리하는 Class
 - LogOnCheck : Class - 로그인 가능한지 체크하는 Class
 - Login : Class - 로그인 Class
@@ -45,15 +43,11 @@ UI 개발, 스킬 제작
 
 ### 메인 화면 제작
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5bba033-d341-4db4-855a-c05ea4e277da/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5bba033-d341-4db4-855a-c05ea4e277da/Untitled.png)
-
 - **MainManager : Class**
     - LoadPlayerCharacter - 캐릭터를 로드하는 함수
     - MakeNewCharacter - 새로운 캐릭터를 생성하는 함수
 
 ### 로비 제작
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/931faa57-d4a5-4384-8fb5-3e025cd7a452/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/931faa57-d4a5-4384-8fb5-3e025cd7a452/Untitled.png)
 
 - **StartMenuManager : Class**
     - StartMenuManager - 캐릭터 이미지를 바꾸는 popup창 띄우는 함수
@@ -66,8 +60,6 @@ UI 개발, 스킬 제작
     - DisplayCharacterMoney - 캐릭터가 가진 돈을 출력하는 함수
 
 ### 상점 제작
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae2a9875-c2da-4737-a80f-191afac41e61/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae2a9875-c2da-4737-a80f-191afac41e61/Untitled.png)
 
 - **SHOPManager : Class**
     - LoadItemData - 무기, 방어구, 장신구 load
@@ -85,8 +77,6 @@ UI 개발, 스킬 제작
     - ShowConfirmPopup - 구매할 물품을 최종적으로 확인하는 popup창을 띄우는 함수
 
 ### 덱 제작
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fd0c160-e513-453a-8b11-a74a20a76462/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fd0c160-e513-453a-8b11-a74a20a76462/Untitled.png)
 
 - **UserDeckManager : Class**
     - DownscaleCard - 보유하고 있는 카드를 클릭했을 때 작아짐
@@ -109,7 +99,6 @@ UI 개발, 스킬 제작
 
 ### 스킬 제작
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f253db09-0fc6-4240-995d-d1b4e33fc598/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f253db09-0fc6-4240-995d-d1b4e33fc598/Untitled.png)
 
 - **TileEffect : Class**
     - InstantDamage - 즉발 데미지 생성
